@@ -8,3 +8,5 @@
 - Code should be clean and commented.
 - WP Best practices should be implemented when developing the theme.
 - After completing, need to share github link for following assessment. 
+
+Note: Please download required **test.psd** file. 
